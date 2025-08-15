@@ -1,1 +1,50 @@
-
+IoT-Transport-Safety-System/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+│   ├── Project_Proposal.pdf
+│   ├── Research_Papers/
+│   ├── Presentations/
+│   ├── images/
+│   │   ├── system_architecture.png
+│   │   ├── block_diagram.png
+│   │   └── prototype_images/
+├── hardware/
+│   ├── schematics/
+│   │   ├── main_unit.fzz
+│   │   └── sensor_modules.fzz
+│   ├── BOM.md
+│   └── 3d_models/
+├── firmware/
+│   ├── main_unit/
+│   │   ├── src/
+│   │   │   ├── main.ino
+│   │   │   ├── emergency_handler.cpp
+│   │   │   └── ...
+│   │   └── platformio.ini
+│   ├── sensor_modules/
+│   │   ├── alcohol_sensor/
+│   │   ├── emergency_button/
+│   │   └── ...
+├── mobile_app/
+│   ├── police_app/
+│   │   ├── android/
+│   │   ├── ios/
+│   │   └── flutter/
+│   └── passenger_app/
+├── cloud_server/
+│   ├── firebase/
+│   │   ├── rules.json
+│   │   └── database_structure.md
+│   ├── api/
+│   │   ├── emergency_api.py
+│   │   ├── toll_payment_api.py
+│   │   └── ...
+│   └── docker-compose.yml
+├── prototypes/
+│   ├── v1/
+│   └── v2/
+└── tests/
+    ├── unit_tests/
+    └── integration_tests/
