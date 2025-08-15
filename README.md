@@ -1,6 +1,6 @@
 # IoT-Based Advanced Transport Management and Safety System
 
-![[System Architecture](docs/images/system_architecture.png](https://github.com/jewel3g/IoT-Transport-Safety-System/blob/main/Hardware.png))
+https://github.com/jewel3g/IoT-Transport-Safety-System/blob/036061da1e71454704c6c7a55690bf1763862934/Hardware.png
 
 A comprehensive IoT solution to enhance road safety, prevent accidents, reduce harassment cases, and modernize transport management.
 
